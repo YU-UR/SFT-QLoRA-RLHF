@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Dataset
+*.json
+*.jsonl
+*.csv
+*.tsv
+
+# Model
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.model
+
+# Checkpoints
+checkpoint*/
+checkpoints/
+output/
+outputs/
+results/
+
+# Cache
+.cache/
+
+# HuggingFace
+hf_cache/
+
+# Weights
+weights/
+models/

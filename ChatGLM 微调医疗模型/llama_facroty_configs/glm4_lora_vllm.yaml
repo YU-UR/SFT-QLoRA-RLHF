@@ -1,0 +1,4 @@
+model_name_or_path: /root/autodl-tmp/checkpoints/huatuo-glm-qlora-merge
+template: glm4
+infer_backend: vllm
+vllm_enforce_eager: true
